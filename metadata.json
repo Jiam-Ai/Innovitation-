@@ -1,0 +1,7 @@
+{
+  "name": "Innovative Gadget",
+  "description": "A modern e-commerce marketplace for the latest and most innovative gadgets. Find cutting-edge electronics, tech accessories, and more.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
